@@ -1,2 +1,2 @@
 # WinScripts
-Various scripts for Microsoft Windows OS
+Various scripts for managing and tweaking Microsoft Windows OS
